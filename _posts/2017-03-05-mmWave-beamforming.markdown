@@ -24,17 +24,17 @@ Technological advances holds promise in unlocking the potential of using mmW ban
 
 ### Following are the slides for a class presentation on research paper
 #### Research Paper Title: mmWave Beamforming as an Enabling Technology for 5G Cellular Communications: Theoretical Feasibility and Prototype Results
-You can download the research paper [here]({{ site.url }}/assets/pdf/mmWave.pdf).
+<!-- You can download the research paper [here]({{ site.url }}/assets/pdf/mmWave.pdf). -->
 
 <div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/1OD8wrSQ5EHlvrj7siqONww9RB0PWNxc_incrpn10h6s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <br /><br /><br />
-### Research paper.
+<!-- ### Research paper. -->
 
-<object data="{{ site.url }}/assets/pdf/mmWave.pdf" type="application/pdf" width="700px" height="700px">
+<!-- <object data="{{ site.url }}/assets/pdf/mmWave.pdf" type="application/pdf" width="700px" height="700px">
 <embed src="{{ site.url }}/assets/pdf/mmWave.pdf">
 This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.url }}/assets/pdf/mmWave.pdf">Download PDF</a>.</p>
 </embed>
-</object>
+</object> -->
