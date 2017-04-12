@@ -45,3 +45,4 @@ The first time you run this command it will take a while to get loaded up.
 Get your name on this list of contributors!
 
 * Faisal Farooq
+* Rene Midouin

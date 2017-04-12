@@ -51,14 +51,14 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll (= 3.4.0)
+  jekyll
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   rack-jekyll
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.4.1p111
 
 BUNDLED WITH
-   1.13.7
+   1.14.6
